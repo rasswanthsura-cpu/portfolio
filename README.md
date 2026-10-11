@@ -1,47 +1,54 @@
-# 🚀 Rasswanth's Portfolio
+# Rasswanth | AI Engineering & Full-Stack Development
 
-A premium, scroll-animated portfolio website built with **Next.js**, **Framer Motion**, and **Tailwind CSS** — showcasing my expertise in Generative AI, RAG systems, and modern web development.
+> Building intelligent AI-powered experiences. Modern Web. Intelligent AI.
 
-## 🌐 Live Demo
+I'm a Computer Science Engineering student focused on **Generative AI, Retrieval-Augmented Generation (RAG), and full-stack application development**. This repository contains my personal portfolio, built to present my projects, technical interests, and engineering work.
 
-**👉 [View Portfolio](https://portfolio-6pde-git-main-rasswanthsura-cpus-projects.vercel.app/)**
+<p align="left">
+  <a href="https://github.com/rasswanthsura-cpu"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://github.com/rasswanthsura-cpu/ask-my-doc"><img src="https://img.shields.io/badge/Featured_Project-Ask_My_Document-6C63FF?style=for-the-badge" alt="Ask My Document project"></a>
+</p>
 
-## ✨ Features
+## ✨ Highlights
 
-- 🎬 **Scrollytelling Animation** — Immersive scroll-linked image sequence
-- 🌙 **Dark Theme** — Premium dark-themed design with glassmorphism
-- 🎨 **Custom Cursor** — Interactive custom cursor effects
-- 🧠 **AI-Focused Projects** — Showcasing RAG, NLP, and database assistant projects
-- 📱 **Responsive Design** — Looks great on all devices
-- ⚡ **Smooth Animations** — Powered by Framer Motion
+- **AI-first project showcase** for RAG and LLM-powered applications
+- **Responsive interface** designed for desktop and mobile
+- **Motion-led interactions** using Framer Motion
+- **Modern styling** with Tailwind CSS and a dark visual theme
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-- **Framework:** Next.js 14
-- **Styling:** Tailwind CSS
-- **Animations:** Framer Motion
-- **Language:** TypeScript
-- **Deployment:** Vercel
+| Area | Technologies |
+|---|---|
+| Framework | Next.js, React |
+| Language | TypeScript, JavaScript |
+| Styling | Tailwind CSS |
+| Motion | Framer Motion |
+| Deployment | Vercel |
 
-## 🚀 Getting Started
+## 🚀 Run Locally
+
+Prerequisites: Node.js and npm.
 
 ```bash
-# Clone the repository
 git clone https://github.com/rasswanthsura-cpu/portfolio.git
-
-# Install dependencies
+cd portfolio
 npm install
-
-# Run development server
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it locally.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📬 Contact
+## 🧠 Featured Work
 
-Feel free to reach out via the contact section on the portfolio!
+- **[Ask My Document](https://github.com/rasswanthsura-cpu/ask-my-doc)** — A document question-answering project using a RAG approach.
+- **Smart DB Assistant** — An experiment in translating natural-language requests into SQL with an LLM.
+
+## 📬 Connect
+
+- GitHub: [@rasswanthsura-cpu](https://github.com/rasswanthsura-cpu)
+- Email: [rasswanth.sura@gmail.com](mailto:rasswanth.sura@gmail.com)
 
 ---
 
-⭐ **If you liked this project, give it a star!**
+*Designed and built by Rasswanth. Always learning, building, and improving.*
